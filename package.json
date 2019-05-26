@@ -1,0 +1,17 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "Chat Tool",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}

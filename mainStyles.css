@@ -1,0 +1,30 @@
+#message-container {
+    max-width: 500px;
+    height: auto;
+    min-height: 300px;
+    text-align: left;
+    color: #000;
+    font-size: 1.4em;
+    margin: 0 auto;
+    border: 1px solid #959595;
+}
+
+#send-container {
+    margin: 0 auto;
+    width: 500px;
+    text-align: center
+}
+
+#message-input {
+    margin-top: 1em;
+    width: 80%;
+    height: 20px;
+}
+
+.chatBox {
+    background: #fff;
+}
+
+#message-container div {
+    background: #d3d3d3;
+}
